@@ -2,3 +2,5 @@
 drupal_core_path: "/var/www/drupal"
 
 domain: "drupal"
+
+drupal_site_name: "Drupal Site"
