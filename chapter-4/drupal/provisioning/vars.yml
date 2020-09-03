@@ -1,0 +1,4 @@
+---
+drupal_core_path: "/var/www/drupal"
+
+domain: "drupal"
